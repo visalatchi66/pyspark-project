@@ -18,3 +18,4 @@ VII.	Pearson correlation of high and low
 VIII.	Max high per year
 IX.	Max high per month
 X.	Distinct months
+5.  Built a Linear regression Model
